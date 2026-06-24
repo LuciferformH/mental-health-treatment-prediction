@@ -143,16 +143,7 @@ streamlit run app/streamlit_app.py
 6. **Data Collection**: Gather more recent survey data
 7. **Multi-class Classification**: Predict treatment urgency levels
 
-## 👤 Author
 
-**Prasad Harel**
-
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
